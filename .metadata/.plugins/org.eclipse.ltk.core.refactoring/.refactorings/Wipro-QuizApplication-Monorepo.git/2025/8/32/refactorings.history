@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Wipro-QuizApplication-Monorepo.git/src/main/java/com/surya&apos; to &apos;radhi&apos;" description="Rename resource &apos;surya&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/surya" name="radhi" stamp="1754646806804" updateReferences="true"/>
+</session>
